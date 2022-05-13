@@ -22,11 +22,10 @@ activate the virtual env `source env/bin/activate`
 install the pip package `pip install -i https://test.pypi.org/simple/ py-test-taz`
 
 run test
-<code>
-<br>
+```
 from basic_calculator.TestCalculator import TestCalculator
 
 print(TestCalculator.add(1, 24))
-</code>
+```
 
 deactivate the virtual env `deactivate`
