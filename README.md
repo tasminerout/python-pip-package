@@ -29,3 +29,9 @@ print(TestCalculator.add(1, 24))
 ```
 
 deactivate the virtual env `deactivate`
+
+References
+
+implementation = [how to create and upload package to pypi](https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/)
+
+pypi repo = [package details on test pypi repo](https://test.pypi.org/project/py-test-taz/)
